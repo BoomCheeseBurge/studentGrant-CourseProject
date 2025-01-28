@@ -1,6 +1,6 @@
 # Student Grant Management
 
-## Built on PHP 8 with Bootstrap5.
+## Built on PHP 8.3 with Bootstrap5.
 
 This project was part of a course project that manages student grant proposal for research journal/conference on a national and international level.
 
